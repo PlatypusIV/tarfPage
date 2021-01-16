@@ -1,0 +1,11 @@
+Add link to my github (later add it to my portfolio)
+
+remove unneccessary footer text
+
+change title
+
+Watch button has to open new tab instead of same tab
+
+links to different parts of the page
+
+support me section
