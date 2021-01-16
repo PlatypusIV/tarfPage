@@ -1361,6 +1361,22 @@
 
 			}
 
+			/*My change */
+			.inner .divInfo{
+				align-content: center;
+				width: max-content;
+				margin: auto;
+				padding-left: 10px;
+				padding-right: 10px;
+				padding-top: 5px;
+				padding-bottom: 5px;
+				min-width: 640px;
+				min-height: 240px;
+				background: #2c2c32;
+				border-radius: 4px;
+				margin-bottom: 2em;
+			}
+
 /* Footer */
 
 	#footer {

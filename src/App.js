@@ -1,6 +1,6 @@
 import React from "react";
 import './App.css';
-import { Header, Footer, Box } from "./components";
+import { Header, Footer, Box, InfoBox } from "./components";
 const links = require("./videoLinks.json");
 
 
@@ -24,14 +24,17 @@ export default class App extends React.Component {
 				</section>
 
 				<div id="main">
+					
 					<div class="inner">
-						<div class="thumbnails">
+						<div className="divInfo">
+							<InfoBox />
+						</div>
+						<div className="thumbnails">
 							{this.showVideoBoxes()}
 						</div>
 
 					</div>
 				</div>
-
 				<Footer />
 			</div>
 		);
