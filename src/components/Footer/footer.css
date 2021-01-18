@@ -1,0 +1,23 @@
+.divInner{
+    width: 100%;
+    display:flex;
+    flex-direction: column;
+    margin:auto;
+}
+
+.ulFooterIcons{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    list-style: none;
+}
+
+.divInner a{
+    margin: 1em;
+}
+
+.divInner a img{
+    max-height: 32px;
+    max-width: 32px;
+}
