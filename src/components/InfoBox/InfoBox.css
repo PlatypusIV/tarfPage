@@ -8,6 +8,8 @@
     padding: 0.2em;
 }
 
-.divSupportMe{
-    
+.divMainInfo p{
+    word-wrap: normal;
+    margin: 0.1em;
 }
+
