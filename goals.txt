@@ -24,4 +24,7 @@ stylized cards
 
 carousel
 
-change page font
+change page font + (h1 wont change. fix it)
+
+add spotify embed
+
