@@ -2,14 +2,48 @@
     width: 100%;
     height: max-content;
     align-content: center;
-    justify-content: center;
+    justify-content: space-between;
     display: flex;
-    flex-direction: column;
     padding: 0.2em;
+    font-family: 'Metal Mania', cursive;
+
 }
 
-.divMainInfo p{
-    word-wrap: normal;
+p{
+    word-wrap:normal;
     margin: 0.1em;
 }
+
+.divMainImage{
+}
+
+.imgPortrait{
+    width: 240px;
+    border-radius: 50%;
+}
+
+@media (min-width:800px){
+    p{
+        font-size: 26px;
+    }
+
+    .divMainInfo{
+        flex-direction: row;
+
+    }
+}
+
+@media (max-width:800px){
+    p{
+        font-size: 14px;
+    }
+
+    .divMainInfo{
+        flex-direction: column;
+
+    }
+}
+
+
+
 

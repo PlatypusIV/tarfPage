@@ -5,16 +5,14 @@
     margin:auto;
 }
 
-.ulFooterIcons{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-content: center;
-    list-style: none;
+.divLinks{
+    margin: 10px;
 }
 
 .divInner a{
     margin: 1em;
+    max-height: 32px;
+    max-width: 32px;
 }
 
 .divInner a img{

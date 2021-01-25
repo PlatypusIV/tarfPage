@@ -1,6 +1,7 @@
 @charset "UTF-8";
 /* @import url(font-awesome.min.css); */
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400|Passion+One:400");
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania');
 
 /*
 	Full Motion by TEMPLATED
@@ -314,6 +315,7 @@
 		-webkit-flex-wrap: wrap;
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
+		width: 100%;
 	}
 
 		.thumbnails .box {
@@ -1370,8 +1372,8 @@
 				padding-right: 10px;
 				padding-top: 5px;
 				padding-bottom: 5px;
-				min-width: 640px;
-				min-height: 240px;
+				width: 80%;
+				min-height: 10%;
 				background: #2c2c32;
 				border-radius: 4px;
 				margin-bottom: 2em;
