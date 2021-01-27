@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/tarf/static/css/main.1bb36e9c.chunk.css",
+    "main.js": "/tarf/static/js/main.a9396cc7.chunk.js",
+    "main.js.map": "/tarf/static/js/main.a9396cc7.chunk.js.map",
+    "runtime-main.js": "/tarf/static/js/runtime-main.bb5c4c44.js",
+    "runtime-main.js.map": "/tarf/static/js/runtime-main.bb5c4c44.js.map",
+    "static/js/2.902658d7.chunk.js": "/tarf/static/js/2.902658d7.chunk.js",
+    "static/js/2.902658d7.chunk.js.map": "/tarf/static/js/2.902658d7.chunk.js.map",
+    "static/js/3.74204ed0.chunk.js": "/tarf/static/js/3.74204ed0.chunk.js",
+    "static/js/3.74204ed0.chunk.js.map": "/tarf/static/js/3.74204ed0.chunk.js.map",
+    "index.html": "/tarf/index.html",
+    "static/css/main.1bb36e9c.chunk.css.map": "/tarf/static/css/main.1bb36e9c.chunk.css.map",
+    "static/js/2.902658d7.chunk.js.LICENSE.txt": "/tarf/static/js/2.902658d7.chunk.js.LICENSE.txt",
+    "static/media/bandcamp.eed6f1dd.svg": "/tarf/static/media/bandcamp.eed6f1dd.svg",
+    "static/media/big_dude.046a2189.jpg": "/tarf/static/media/big_dude.046a2189.jpg",
+    "static/media/App.css": "/tarf/static/media/holding_guitar.20c578c1.jpg",
+    "static/media/spotify.9e36fed6.svg": "/tarf/static/media/spotify.9e36fed6.svg",
+    "static/media/twitter.6c3a6b9a.svg": "/tarf/static/media/twitter.6c3a6b9a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb5c4c44.js",
+    "static/js/2.902658d7.chunk.js",
+    "static/css/main.1bb36e9c.chunk.css",
+    "static/js/main.a9396cc7.chunk.js"
+  ]
+}
