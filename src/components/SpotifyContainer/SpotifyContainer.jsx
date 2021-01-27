@@ -44,7 +44,8 @@ class SpotifyContainer extends react.Component {
                 height="380"
                 frameborder="0"
                 allowtransparency="true"
-                allow="encrypted-media"></iframe>
+                allow="encrypted-media"
+                title="Deceitome Spotify"></iframe>
         </div>)
     }
 }

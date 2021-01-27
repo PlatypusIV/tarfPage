@@ -31,6 +31,6 @@ add spotify embed
 spotify embed code:
     <iframe src="https://open.spotify.com/embed/artist/6vg2jNAYHgIg3FfWLv7EoG" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-change buttons red
+change buttons red +++
 
-increase interior font size
+increase interior font size +++
