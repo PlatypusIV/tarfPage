@@ -1,0 +1,8 @@
+.divMainSpotifyContainer{
+    width: 100%;
+    height: max-content;
+    align-content: center;
+    justify-content: center;
+    display: flex;
+    font-family: 'Metal Mania', cursive;
+}

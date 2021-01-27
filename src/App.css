@@ -1368,6 +1368,7 @@
 				align-content: center;
 				width: max-content;
 				margin: auto;
+				margin-bottom: 2em;
 				padding-left: 10px;
 				padding-right: 10px;
 				padding-top: 5px;
@@ -1376,6 +1377,12 @@
 				min-height: 10%;
 				background: #2c2c32;
 				border-radius: 4px;
+			}
+
+
+			.divSpotifyOuterContainer{
+				width: 100%;
+				align-content: center;
 				margin-bottom: 2em;
 			}
 

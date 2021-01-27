@@ -1,0 +1,28 @@
+.divLinkButton{
+    /* background-color: crimson; */
+    min-width: 100px;
+
+}
+
+.divLinkButton :hover{
+    /* background-color: crimson; */
+    background-color: black;
+    color: white;
+
+}
+
+.buttonWatchLink{
+    background-color: crimson;
+    color: black;
+    font-size: 20px;
+    width: 100%;
+    height: 100%;
+    align-content: center;
+    justify-content: center;
+
+}
+
+.buttonWatchLink p{
+    font-family: 'Metal Mania',cursive;
+    color: black;
+}
