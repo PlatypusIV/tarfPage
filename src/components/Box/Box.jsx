@@ -14,13 +14,12 @@ export default class Box extends react.Component {
     render() {
         const { linkProp } = this.props;
         return (<div className="inner">
-            <div className="divVideoContainer"><iframe src={linkProp} allowFullScreen /></div>
+            <div className="divVideoContainer"><iframe src={linkProp} allowFullScreen className="iframeYoutube"/></div>
             <div className="divLinkButton">
                 <button onClick={()=>this.openInNewTab(linkProp)} className="buttonWatchLink">
-                    <p>Watch</p>
+                    Watch
                 </button>
             </div>
-
         </div>);
     }
 }

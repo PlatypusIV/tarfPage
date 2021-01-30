@@ -34,3 +34,7 @@ spotify embed code:
 change buttons red +++
 
 increase interior font size +++
+
+"üks mõte, vb selle asemel et see watch teeb uue akna lahti, see teeb samas aknas overlay lahti"
+
+viska see punane watch minema ja videol on rohkem ruumi
