@@ -38,3 +38,7 @@ increase interior font size +++
 "üks mõte, vb selle asemel et see watch teeb uue akna lahti, see teeb samas aknas overlay lahti"
 
 viska see punane watch minema ja videol on rohkem ruumi
+
+
+More videos logic
+    box that holds three vids, then expands to hold 3 more vids with each click
